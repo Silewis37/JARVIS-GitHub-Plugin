@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="jarvis_github_plugin",
-    version="1.3.0",
+    version="0.1.0",
     packages=find_packages(),
     install_requires=[
         "requests>=2.32.3",

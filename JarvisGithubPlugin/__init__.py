@@ -1,1 +1,1 @@
-from GitHubHandler import GitHubHandlers
+from GitHubHandler import GitHubHandler
